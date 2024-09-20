@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="Reggea">string</string>
+    <string name="Jack">string</string>
+    <string name="Moyo">string</string>
+    <string name="wet_for_me">Wet for me</string>
+    <string name="john_drill">John Drill</string>
+    <string name="romance">Romance</string>
+    <string name="dont_worry_be_happy">Dont worry, Be Happy</string>
+    <string name="bobby">Bobby</string>
+    <string name="afropop">AfroPop</string>
+    <string name="i_will_be_there">I will be there</string>
+    <string name="jackson">JackSon</string>
+    <string name="dancehall">DanceHall</string>
+    <string name="trending">Trending</string>
+    <string name="favorites">Favorites</string>
+    <string name="search">Search</string>
+    <string name="john">John</string>
+    <string name="hiphop">HipHop</string>
+    <string name="dance">Dance</string>
+    <string name="together">Together</string>
+    <string name="album">Album</string>
+    <string name="albums">Albums</string>
+    <string name="recents">Recents</string>
+    <string name="genres">Genres</string>
+    <string name="jack">Jack</string>
+    <string name="legends">Legends</string>
+    <string name="dan">Dan</string>
+</resources>
